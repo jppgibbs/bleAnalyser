@@ -24,7 +24,6 @@ Ensure device has bluetooth enabled and supports BLE (bluetooth 4.0 minimum)
 
 # Usage
 
-Usage:
  1. Ensure dependencies are installed
  2. Run with python 2.7 - 'python bleAnalyser.py'
  3. Enter scan duration (recommended 30)
@@ -33,3 +32,5 @@ Usage:
     Enter the file name into the 'enter log file to graph' field and click generate graph.
 
 Note: I have included a sample log file '21_02_2020 17_24_42.log' with some pre-recorded data.
+![Sample Graph](https://i.imgur.com/5uCSOmW.png)
+
