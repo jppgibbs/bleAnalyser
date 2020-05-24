@@ -1,6 +1,8 @@
 # bleAnalyser
 Python Bluetooth Low Energy scanning and visualisation tool
 
+
+# Installation
 Software tested on Kali Liux 2019.4 
 Ensure you are using python 2.7.16
 
@@ -20,7 +22,7 @@ pip install pandas
 Ensure device has bluetooth enabled and supports BLE (4.0)
 
 
-# Usage Guide
+# Usage
 
 Usage:
  1. Ensure dependencies are installed
