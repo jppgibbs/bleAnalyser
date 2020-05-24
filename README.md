@@ -19,7 +19,7 @@ pip install numpy
 pip install pandas
 
 
-Ensure device has bluetooth enabled and supports BLE (4.0)
+Ensure device has bluetooth enabled and supports BLE (bluetooth 4.0 minimum)
 
 
 # Usage
